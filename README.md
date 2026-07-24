@@ -86,7 +86,7 @@ Connect with me 🤝
 <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
 </a>
 
-<a target="_blank" href="https://github.com/TU-USUARIO">
+<a target="_blank" href="https://github.com/franfeldman">
 <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
 </a>
 
