@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-Software Developer • Technical High School Student 🇦🇷
+Technical High School Student 🇦🇷
 </h3>
 
 <p align="center">
