@@ -13,7 +13,7 @@ Building real-world software while constantly learning.
 
 ---
 
- ##🚀 About Me
+## 🚀 About Me
 
 💻 I enjoy building software that solves real problems.
 
@@ -29,7 +29,7 @@ Building real-world software while constantly learning.
 
 ---
 
- ##🌱 Currently Learning
+## 🌱 Currently Learning
 
 - Software Architecture
 - TypeScript
