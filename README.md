@@ -2,8 +2,6 @@
   <img src="./assets/Banner_Fran.png" alt="Francisco Feldman Banner" width="100%">
 </p>
 
-<br>
-<h1 align="center"><b>Hi , I'm Francisco Feldman </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">
 Software Developer • Technical High School Student 🇦🇷
