@@ -82,7 +82,9 @@ Connect with me 🤝
 
 <p align="center">
 
-<a target="_blank" href="https://linkedin.com/in/TU-USUARIO">
+<a target="_blank" href="www.linkedin.com/in/
+francisco-ulises-gonzalez-feldman-599718408
+">
 <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
 </a>
 
