@@ -1,4 +1,42 @@
-### 🛠 &nbsp;Tech Stack
+<h1 align="center">Hi 👋, I'm Francisco</h1>
+
+<h3 align="center">
+Software Developer • Technical High School Student 🇦🇷
+</h3>
+
+<p align="center">
+Building real-world software while constantly learning.
+</p>
+
+---
+
+## 🚀 About Me
+
+💻 I enjoy building software that solves real problems.
+
+🏗️ I prefer developing complete applications from the ground up instead of small isolated demos.
+
+🧠 I'm constantly learning about software architecture, backend development, AI and modern software engineering.
+
+🤝 I enjoy working in teams, exchanging ideas and improving through feedback.
+
+📈 I believe consistency, curiosity and discipline are the keys to becoming a better engineer every day.
+
+🎯 Currently building a complete School Management System while preparing for my first software engineering internship.
+
+---
+
+## 🌱 Currently Learning
+
+- Software Architecture
+- TypeScript
+- AI Engineering & LLMs
+- REST APIs
+- WebSockets
+
+---
+
+## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -11,16 +49,42 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+---
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+## 📌 Current Project
+
+🏫 **School Management System**
+
+A full-stack web application designed for educational institutions.
+
+### Main features
+
+- 👨‍🎓 Student Management
+- 👨‍🏫 Teacher & Staff Management
+- 🔐 Authentication & Role-Based Access
+- 📅 Attendance System
+- 💬 Real-time Notifications
+- ⚡ WebSockets for live updates
+- 🗄️ PostgreSQL + Supabase
+- 🎨 React + Django REST Framework
+
+> More details are available in the project repository.
+
+---
+
+<h3 align="center">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+Connect with me 🤝
+</h3>
 
 <p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-      </div>
+<a target="_blank" href="https://linkedin.com/in/TU-USUARIO">
+<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+</a>
+
+<a target="_blank" href="https://github.com/TU-USUARIO">
+<img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+</a>
 
 </p>
